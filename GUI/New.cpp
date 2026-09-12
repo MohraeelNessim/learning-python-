@@ -16,7 +16,7 @@ void menu(){
     int choice;
      queue<task> tasks ;
     
-     while(choice!=3){
+     while(choice!=1){
     cout<<" press 1 for add task"<<endl;
     cout<<" press 2 for remove task"<<endl;
     cout<<" press 3 to exit "<<endl;
